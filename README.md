@@ -1,10 +1,10 @@
 # How to use
 
-[!IMPORTANT]
-Installing OpenSCAD is required.
+> [!IMPORTANT]
+> Installing OpenSCAD is required.
 
-[!WARNING]
-When using it, please change the font in the `Keycap.scad` file as needed.
+> [!WARNING]
+> When using it, please change the font in the `Keycap.scad` file as needed.
 
 - Modify keys array on ``gen_keys.py`` as you want.
 
